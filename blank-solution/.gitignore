@@ -27,7 +27,5 @@ _cache\*
 *.dbproj.*
 sql/
 
-Sample/package	
-
-src/packages/*
-!src/packages/repositories.config
+packages/*
+!packages/repositories.config
